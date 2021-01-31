@@ -1,6 +1,6 @@
 # React Material Example
 
-> Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
+> Material UI example with React Frontend
 
 ## Quick Start
 
